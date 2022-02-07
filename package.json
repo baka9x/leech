@@ -1,0 +1,32 @@
+{
+  "name": "bakaleechtools",
+  "version": "1.5.0",
+  "description": "Manga Tool Leech Pro, Download or Non-Download",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baka9x",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "cloudflare-bypasser": "^0.0.3",
+    "cloudflare-scraper": "^1.0.8",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "image-downloader": "^4.0.2",
+    "jimp": "^0.16.1",
+    "ksort": "^0.0.6",
+    "puppeteer": "^9.1.1",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "selenium-webdriver": "^4.0.0-beta.4",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^91.0.1"
+  }
+}
